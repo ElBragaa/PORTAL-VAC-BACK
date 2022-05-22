@@ -73,15 +73,3 @@ class SchedulingController  {
 };
 
 export default SchedulingController;
-
-/*
-{
-   "name": "Roberto",
-   "phones": "4002-8922",
-   "email": "robertin.bb@gmail.com",
-   "password": "1234",
-   "birthDate": "2022-04-01",
- "schedulingDate:"2022-04-01" ,
-    "schedulingTime": "12:00:00"
-}
-*/
